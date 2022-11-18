@@ -6,4 +6,4 @@
 
 ## Posting
 
-[Click here to post](https://github.com/jdan/twitter2/issues/new)
+[Click here to post](https://github.com/jdan/twitter/issues/new)
