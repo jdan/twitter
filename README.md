@@ -1,2 +1,9 @@
 # twitter2
-See what’s happening in the world right now
+
+- Follow your interests.
+- Hear what people are talking about.
+- Join the conversation.
+
+## Posting
+
+[Click here to post](https://github.com/jdan/twitter2/issues/new)
